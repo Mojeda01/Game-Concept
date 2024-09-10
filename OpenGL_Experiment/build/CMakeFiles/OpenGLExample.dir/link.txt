@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/OpenGLExample.dir/main.cpp.o -o OpenGLExample  -framework OpenGL -framework OpenGL /opt/homebrew/opt/glew/lib/libGLEW.dylib /opt/homebrew/opt/glfw/lib/libglfw.dylib
