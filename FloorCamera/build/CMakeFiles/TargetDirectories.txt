@@ -1,0 +1,3 @@
+/Users/marcoojeda/Organization/Coding/concept/FloorCamera/build/CMakeFiles/OpenGLExample.dir
+/Users/marcoojeda/Organization/Coding/concept/FloorCamera/build/CMakeFiles/edit_cache.dir
+/Users/marcoojeda/Organization/Coding/concept/FloorCamera/build/CMakeFiles/rebuild_cache.dir
