@@ -1,0 +1,3 @@
+/Users/marcoojeda/Organization/Coding/concept/metalTest/build/CMakeFiles/MetalApp.dir
+/Users/marcoojeda/Organization/Coding/concept/metalTest/build/CMakeFiles/edit_cache.dir
+/Users/marcoojeda/Organization/Coding/concept/metalTest/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/MetalApp.dir/main.mm.o -o MetalApp  -framework Metal -framework QuartzCore -framework ApplicationServices -framework Cocoa
