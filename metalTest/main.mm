@@ -108,7 +108,7 @@ public:
                                           options:MTLResourceStorageModeShared];
     }
 
-    void render(const float transform[16]) {
+    void render(const float* transform) {
         @autoreleasepool {
             id<CAMetalDrawable> drawable = [metalLayer nextDrawable];
             if (!drawable) return;
@@ -127,7 +127,7 @@ public:
             [renderEncoder setVertexBuffer:vertexBuffer offset:0 atIndex:0];
 
             // Set the transformation matrix
-            [renderEncoder setVertexBytes:transform length:sizeof(transform) atIndex:1];
+            [renderEncoder setVertexBytes:transform length:sizeof(float) * 16 atIndex:1];
 
             // Draw call
             [renderEncoder drawPrimitives:MTLPrimitiveTypeTriangle vertexStart:0 vertexCount:3];
