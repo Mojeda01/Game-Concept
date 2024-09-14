@@ -1,0 +1,3 @@
+/Users/marcoojeda/Organization/Coding/concept/textureCube/build/CMakeFiles/TextureCube.dir
+/Users/marcoojeda/Organization/Coding/concept/textureCube/build/CMakeFiles/edit_cache.dir
+/Users/marcoojeda/Organization/Coding/concept/textureCube/build/CMakeFiles/rebuild_cache.dir
