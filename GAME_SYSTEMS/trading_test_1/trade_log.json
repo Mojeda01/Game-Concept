@@ -1,0 +1,17 @@
+{
+    "buyer": {
+        "id": 2,
+        "name": "Bob"
+    },
+    "item": {
+        "id": 1,
+        "name": "Sword",
+        "quantity": 1
+    },
+    "price": 50,
+    "seller": {
+        "id": 1,
+        "name": "Alice"
+    },
+    "timestamp": 1726513782
+}
